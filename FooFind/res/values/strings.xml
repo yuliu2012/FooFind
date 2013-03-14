@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FooFind</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_field">FieldActivity</string>
+    <string name="title_activity_recipe">Ingredient</string>
+    <string name="title_activity_recommendation">Recommendation</string>
+    <string name="title_activity_chinese_dish">Chinese Dish List</string>
+    <string name="title_activity_dish">Dish List</string>
+    <string name="title_activity_try">TryActivity</string>
+    <string name="title_section1">Breakfast</string>
+    <string name="title_section2">Lunch</string>
+    <string name="title_section3">Dinner</string>
+    <string name="title_activity_try_main">TryMainActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_recommendation_tab">RecommendationTabActivity</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_one_dish">Dish</string>
+    <string name="title_section4">Dessert</string>
+    <string name="title_section5">Soup</string>
+    <string name="title_activity_search2">Search2Activity</string>
+
+</resources>
